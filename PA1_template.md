@@ -100,7 +100,7 @@ sum(is.na(activity))
 
 ```r
 ## 2. Devise a strategy for filling in all of the missing values in the dataset.
-## replace NA value with mean 
+## I am replacing NA value with mean.
 
 ## 3. Create a new dataset that is equal to the original dataset but with the missing data filled in.
 activity2 <- activity
